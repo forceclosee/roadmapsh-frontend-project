@@ -1,6 +1,6 @@
 # Single-Page CV
 
-This my first and simple FRONTEND PROJECT based on <https://roadmap.sh/projects/single-page-cv> using only HTML and CSS.
+This is my first and simple FRONTEND PROJECT using only HTML and CSS.
 
 To make things comfortable for eyes I make this project on dark mode.
 
@@ -15,6 +15,10 @@ I make this project to showcase my career history and practice how to create a s
 - [x] SEO meta tags in the head section.
 - [x] OG tags for better social media sharing.
 - [x] A favicon linked in the head section.
+
+---
+
+Project URL: https://roadmap.sh/projects/single-page-cv
 
 ---
 

@@ -1,8 +1,8 @@
-# FRONT END PROJECT
+# FRONTEND PROJECT
 
-Welcome to my FRONT END PROJECT.
+Welcome to my FRONTEND PROJECT.
 
-This project is based on frontend developer roadmap from [roadmap.sh](https://roadmap.sh/frontend).
+This project is based on frontend developer roadmap from [roadmap.sh](https://roadmap.sh/frontend/projects).
 
 To make things comfortable for eyes I make all of this project on dark mode.
 
@@ -17,3 +17,4 @@ This project contains total of 24 project from beginner to advanced \(I will gra
 ### 1. [Single-Page CV](./01-single-page-cv/)
 
 > My first and simple project with HTML and basic CSS. Showcasing my career history and practice how to create a structured, single-page CV using HTML and basic CSS.
+> Project URL: https://roadmap.sh/projects/single-page-cv
