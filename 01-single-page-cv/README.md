@@ -1,6 +1,6 @@
 # Single-Page CV
 
-This my first and simple project from the FRONTEND PROJECT using only HTML and CSS.
+This my first and simple FRONTEND PROJECT based on <https://roadmap.sh/projects/single-page-cv> using only HTML and CSS.
 
 To make things comfortable for eyes I make this project on dark mode.
 
